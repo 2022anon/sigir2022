@@ -1,10 +1,9 @@
 # Data and codes
 We release the data and codes used in our paper.
 
-We uploaded the core codes in File "code":
-
-##File "basic" containes the codes of basic model. 
-##File "advance" containes the codes of advanced model.
+We uploaded the core codes in File "code":  
+File "basic" containes the codes of basic model. 
+File "advance" containes the codes of advanced model.
 
 Both basic and advanced models are implemented based on [Fairseq](https://github.com/pytorch/fairseq) framework provided.
 
