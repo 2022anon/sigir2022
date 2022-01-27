@@ -2,9 +2,9 @@ We release the data and codes used in our paper.
 # Data
 We uploaded the core codes in File "data":  
 ```
-File "yelp" contains synthetic semi-structured training pairs and generated summaries of Yelp.	  
-File "amazon" contains synthetic semi-structured training pairs and generated summaries of Amazon.
-File "rt" contains synthetic semi-structured training pairs and generated summaries of RottenTomatoes.
+"yelp" contains synthetic semi-structured training pairs and generated summaries of Yelp.	  
+"amazon" contains synthetic semi-structured training pairs and generated summaries of Amazon.
+"rt" contains synthetic semi-structured training pairs and generated summaries of RottenTomatoes.
 ```
 
 # Codes
