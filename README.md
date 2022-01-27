@@ -4,7 +4,8 @@ We release the data and codes used in our paper.
 We uploaded the core codes in File "code":
 
 ``
-File "basic" containes the codes of basic model. \
+File "basic" containes the codes of basic model. 
+
 File "advance" containes the codes of advanced model.
 ``
 
