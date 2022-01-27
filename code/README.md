@@ -1,6 +1,6 @@
 ## Synthetic training data creation
 ```
-python src/train_condense.py -mode=train -data_type=yelp
+python train_condense.py -mode=train -data_type=yelp
 ```
 
 ## Basic aspect-guided model
