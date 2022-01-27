@@ -9,5 +9,5 @@ File "rt" contains the synthetic semi-structured training pairs and generated su
 
 # Codes
 We uploaded the core codes of synthetic data creation and proposed models in File "code". The details are described in `code/README.md`.
-Both basic and advanced models are implemented based on [Fairseq](https://github.com/pytorch/fairseq) framework provided.
+Both basic model and advanced model are implemented based on [Fairseq](https://github.com/pytorch/fairseq) framework provided.
 
