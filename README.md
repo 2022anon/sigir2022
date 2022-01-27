@@ -1,8 +1,8 @@
 # Data and codes
 We release the data and codes used in our paper.
 
-File ``code/Basic'' contains the codes of basic model. 
-File ``code/Advance'' containes the codes of advanced model.
+File "code/Basic" contains the codes of basic model. \
+File "code/Advance" containes the codes of advanced model.\
 Both basic and advanced models are implemented based on [Fairseq](https://github.com/pytorch/fairseq) framework provided.
 
 File ``yelp'' contains the synthetic semi-structured training pairs and generated summaries.
